@@ -56,7 +56,7 @@ function readDataAndAppend(data){
     }
 
     //allUnicornData should be an array of objects with your data as key value pairs 
-    console.log(dataObjects)
+    console.log(allUnicornData)
 
 
     //code to parse through allUnicornData array and grab the data you need from key value pairs, and append it 
