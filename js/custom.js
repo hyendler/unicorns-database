@@ -1,5 +1,5 @@
-RECEIVE_URL='https://spreadsheets.google.com/feeds/list/1Ca9Grr_TcSyuU_i-s8rukzlRVMmyr8kwyDdLuDTBSQo/1/public/basic?alt=json';
-SUBMIT_URL="https://script.google.com/macros/s/AKfycbxSHmtqylt1ekdy4j761bFx7YW6xDr0BNvdht3xRY6bPgeFMaYY/exec";
+var RECEIVE_URL='https://spreadsheets.google.com/feeds/list/1Ca9Grr_TcSyuU_i-s8rukzlRVMmyr8kwyDdLuDTBSQo/1/public/basic?alt=json';
+var SUBMIT_URL="https://script.google.com/macros/s/AKfycbxSHmtqylt1ekdy4j761bFx7YW6xDr0BNvdht3xRY6bPgeFMaYY/exec";
 
 //on document load, do all the things
 $(document).ready(function() {
