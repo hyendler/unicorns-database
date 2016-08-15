@@ -70,7 +70,7 @@ function readDataAndAppend(data){
     	var magicPowerText = "<p>" + unicornObject.magic + "</p>"
 
     	//add all the strings together into an html string that gets appended to a div that already exists on my HTML
-    	$("#my-unicorns").append(headerName + colorText + magicPowerText)
+    	$("#display-unicorns").append(headerName + colorText + magicPowerText)
     }
 }
 
